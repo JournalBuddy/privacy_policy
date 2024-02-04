@@ -1,5 +1,6 @@
 ---
 title: Journal Buddy - Privacy Policy
+layout: home
 ---
 # Journal Buddy - Privacy Policy
 
