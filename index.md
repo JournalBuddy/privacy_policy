@@ -1,3 +1,6 @@
+---
+title: Journal Buddy - Privacy Policy
+---
 # Journal Buddy - Privacy Policy
 
 - Journal Buddy does not send any of your journal entries, exercise data, or goals to any online service without user permission. These are all stored, by default, locally on your device.
